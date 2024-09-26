@@ -52,10 +52,9 @@ Snake animation
 
 <div align="center">
  
-![Snake animation dark mode](https://github.com/ggomesbr/ggomesbr/blob/output/github-contribution-grid-snake.gif)
+![Snake animation dark mode](https://github.com/ggomesbr/ggomesbr/blob/output/github-snake.svg)
   
 </div>
-https://github.com/ggomesbr/ggomesbr/blob/output/github-contribution-grid-snake.gif
 
 
 <!--

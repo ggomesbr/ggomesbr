@@ -3,7 +3,7 @@
 
 - :computer:  Software Engineering
 - :seedling:  Studying Java 
-- :zap:  Internship at Athena Soluções Inteligentes
+- :zap:  Searching for internship or research projects
 - :bearded_person: Pronouns: Ele/Dele
 
 ##
